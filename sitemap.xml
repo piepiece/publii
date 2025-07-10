@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://piepiece.github.io/publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://piepiece.github.io/publii/</loc>
+</url>
+<url>
+<loc>https://piepiece.github.io/publii/postagem.html</loc>
+<lastmod>2025-07-09T19:40:23-03:00</lastmod>
+<image:image>
+<image:loc>https://piepiece.github.io/publii/media/posts/1/gallery/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://piepiece.github.io/publii/media/posts/1/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them..jpg</image:loc>
+<image:title><![CDATA[essa caveira é show]]></image:title>
+</image:image>
+</url>
+</urlset>

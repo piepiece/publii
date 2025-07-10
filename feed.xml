@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>thi&#x27;s corner</title>
+    <link href="https://piepiece.github.io/publii/feed.xml" rel="self" />
+    <link href="https://piepiece.github.io/publii" />
+    <updated>2025-07-09T19:40:23-03:00</updated>
+    <author>
+        <name>t.</name>
+    </author>
+    <id>https://piepiece.github.io/publii</id>
+
+    <entry>
+        <title>Postagem</title>
+        <author>
+            <name>t.</name>
+        </author>
+        <link href="https://piepiece.github.io/publii/postagem.html"/>
+        <id>https://piepiece.github.io/publii/postagem.html</id>
+
+        <updated>2025-07-09T19:40:14-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Wow, such a nice place to post! 😀 uma caveirinha bem maneira A caveirinha é loka!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Wow, <em>such</em> a <strong>nice</strong> place to <span style="text-decoration: underline; color: #000000;">post</span>! 😀</h2>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://piepiece.github.io/publii/media/posts/1/gallery/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them..jpg" data-size="1472x832"><img loading="lazy" src="https://piepiece.github.io/publii/media/posts/1/gallery/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-thumbnail.jpg" alt="" width="720" height="407"></a>
+<figcaption>uma caveirinha bem maneira</figcaption>
+</figure>
+</div></div>
+<blockquote>
+<p>A caveirinha é loka!</p>
+</blockquote>
+<figure class="post__image" ><img loading="lazy" src="https://piepiece.github.io/publii/media/posts/1/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them..jpg" alt="essa caveira é show" width="1472" height="832" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://piepiece.github.io/publii/media/posts/1/responsive/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-xs.jpg 640w ,https://piepiece.github.io/publii/media/posts/1/responsive/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-sm.jpg 768w ,https://piepiece.github.io/publii/media/posts/1/responsive/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-md.jpg 1024w ,https://piepiece.github.io/publii/media/posts/1/responsive/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-lg.jpg 1366w ,https://piepiece.github.io/publii/media/posts/1/responsive/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-xl.jpg 1600w ,https://piepiece.github.io/publii/media/posts/1/responsive/a-video-of-a-close-up-of-a-skeletons-hand-scrolling-through-social-media-posts-on-a-smartphone.-the-posts-on-the-feed-go-from-funny-cat-videos-to-war-explosions.-the-bony-hand-keep-scrolling-peacefully-through-them.-2xl.jpg 1920w">
+<figcaption >essa caveira é show</figcaption>
+</figure>
+<hr>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
